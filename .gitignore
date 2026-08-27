@@ -1,0 +1,22 @@
+# Local Python environments
+.venv/
+venv/
+
+# Python caches and test artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local configuration and credentials
+.env
+.streamlit/secrets.toml
+
+# Editor and operating-system files
+.DS_Store
+.idea/
+.vscode/
+
+# Tool caches
+.matplotlib-cache/
