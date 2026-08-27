@@ -24,9 +24,8 @@ make test
 
 ## Live Dashboard
 
-[Open the deployed Streamlit dashboard](https://YOUR-DEPLOYED-DASHBOARD-URL)
+[Open the deployed Streamlit dashboard](https://loblaw-bio-analysis-elssq2768uvamfefyszpgc.streamlit.app/)
 
-> Replace the placeholder URL above after deploying the application.
 
 ## Project Structure
 
